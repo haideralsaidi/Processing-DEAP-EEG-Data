@@ -1,2 +1,2 @@
 # Processing-DEAP-EEG-Data
-Processing *.fif files of DEAP EEG datasets in mne
+Processing *.bdf files of DEAP EEG datasets in mne
